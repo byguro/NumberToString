@@ -1,0 +1,8 @@
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\bin\Debug\NDP_Odev2.exe.config
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\bin\Debug\NDP_Odev2.exe
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\bin\Debug\NDP_Odev2.pdb
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.Properties.Resources.resources
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.csproj.GenerateResource.Cache
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.exe
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.pdb
+c:\users\byguro\documents\visual studio 2012\Projects\NDP_Odev2\NDP_Odev2\obj\Debug\NDP_Odev2.frmFonksiyonHesap.resources
